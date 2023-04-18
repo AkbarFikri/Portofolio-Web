@@ -1,0 +1,36 @@
+#ProfilePicture {
+  width: 200px;
+}
+
+#navbar {
+  background-color: #576cbc;
+  text-decoration: White;
+}
+
+#home {
+  background-color: #a5d7e8;
+  text-decoration: black;
+  padding: 3rem;
+}
+
+#about {
+  padding-top: 3rem;
+}
+
+#portofolio {
+  padding-top: 3rem;
+  background-color: #a5d7e8;
+  text-decoration: black;
+}
+
+#contact {
+  padding-top: 3rem;
+}
+
+#footer {
+  background-color: #a5d7e8;
+}
+
+#navbarNavAltMarkup:hover {
+  text-decoration: #000000;
+}
